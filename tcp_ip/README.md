@@ -8,7 +8,9 @@
 
 사용법
 ./server 9000
+
 ./client 127.0.0.1 9000 client1
+
 ./client 127.0.0.1 9000 client2
 
 
